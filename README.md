@@ -124,9 +124,9 @@ Durante o desenvolvimento foram realizadas etapas de pré-processamento para mel
 ```bash
 📁 projeto-vinhos-machine-learning
 │── 📄 README.md
-│── 📄 relatorio.pdf
-│── 📓 notebook_machine_learning.ipynb
-│── 📁 dataset
+│── 📄 relatorio.docx
+│── 📓 notebook_vinhos.ipynb
+│── 📁 wine_quality_dataset.csv
 ```
 
 ---
