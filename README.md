@@ -75,8 +75,8 @@ Durante o desenvolvimento foram realizadas etapas de pré-processamento para mel
 - Confusion Matrix
 
 ### Regressão
-- MSE (Mean Squared Error)
-- RMSE (Root Mean Squared Error)
+- MSE (Mean Squared)
+- RMSE (Root Mean Squared)
 - R² Score
 
 ---
